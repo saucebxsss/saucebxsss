@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=22&duration=2500&pause=1200&color=D98C9A&center=true&vCenter=true&width=435&lines=HELLOOO+NEIGHBOR!!!;get+the+tf+out+of+my+kfc;it's+so+intimate+rn..;i+cant+stand+you%3F+oh+then+sit+me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=22&duration=2500&pause=1200&color=D98C9A&center=true&vCenter=true&width=435&lines=HELLOOO+NEIGHBOR!!!;get+tf+out+of+my+kfc;it's+so+intimate+rn..;i+cant+stand+you%3F+oh+then+sit+me"/>
 </p>
 
 <div align="center">
