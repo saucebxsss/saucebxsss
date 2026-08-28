@@ -56,7 +56,7 @@ ${\textsf{\color{#E2B0A0} .                ꉂ　      𓈒　 𓈒}}$　<a href
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=saucebxsss&color=c27e79&label=++𝐒𝐖𝐀𝐆!++&)
+  ![](https://komarev.com/ghpvc/?username=saucebxsss&color=c27e79&label=++𝐒𝐖𝐀𝐆!++&base=100)
   
 </div>
 
