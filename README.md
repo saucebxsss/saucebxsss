@@ -39,7 +39,7 @@ ${\textsf{\color{#B8755F} ✦　　﹐　‹𝟹 𝗄α𝗍𝗂𝖾, α𝗌ɦ, �
 </p>
 
 <p data-importer="text" align="center">
-${\textsf{\color{#E2B0A0} .                ꉂ　      𓈒　 𓈒}}$　<a href="https://dermalz.atabook.org">﹒⌗﹒αтαвσσк ⸝⸝</a> ${\textsf{\color{#D98C9A} ⋌ ⠀   ◌⃘.}}$
+${\textsf{\color{#E2B0A0} .                ꉂ　      𓈒　 𓈒}}$　<a href="https://saucebxss.atabook.org">﹒⌗﹒αтαвσσк ⸝⸝</a> ${\textsf{\color{#D98C9A} ⋌ ⠀   ◌⃘.}}$
 </p>
 
 ###
