@@ -130,4 +130,3 @@ ${\textsf{\color{#B8755F} ⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌
   <img src="https://i.ibb.co/xqVmTFDT/IMG-8191.png" alt="bottom lace" width="100%">
 </div>
 
-<meta name="kicya-site-verification" content="da7e4cb4db55c148518c70985431403870f01159879a1181ff70e2daf6dc86c9">
