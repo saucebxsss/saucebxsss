@@ -1,74 +1,58 @@
 <div align="center">
-  <img src="https://i.ibb.co/q3Qvwg7d/IMG-8192.png" alt="top lace" width="100%">
+  <img src="https://i.ibb.co/MDBc1Jz8/IMG-8837.png" alt="header" width="100%">
 </div>
 
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=22&duration=2500&pause=1200&color=D98C9A&center=true&vCenter=true&width=435&lines=HELLOOO+NEIGHBOR!!!;get+tf+out+of+my+kfc;it's+so+intimate+rn..;i+cant+stand+you%3F+oh+then+sit+me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=22&duration=2500&pause=1200&color=C9BEBF&center=true&vCenter=true&width=435&lines=HELLOOO+NEIGHBOR!!!;get+tf+out+of+my+kfc;it's+so+intimate+rn..;i+cant+stand+you%3F+oh+then+sit+me"/>
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/8gfnBZ8G/IMG-8197.png" alt="top lace" width="70%">
+  <img src="https://i.ibb.co/dsFZGdqB/IMG-8838.png" alt="divider 1" width="80%">
 </div>
 
-###
+<br>
 
 <p data-importer="text" align="center">
-${\textsf{\color{#D98C9A} ⚊　　🐑　　⊹　　➣}}$　<a href="https://sauceboss.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>　 ${\textsf{\color{#D99A7E} ♪　　　𝖾𐓣𝗀　　☆}}$
+${\textsf{\color{#C9BEBF} 𓂅 𝖾𐓣𝗀 ﹔ 09 . ⟢}}$
 </p>
 
 <p data-importer="text" align="center">
-${\textsf{\color{#B8755F} 𐂯　 　ㅤ𓏴　 　𝟷𝟽　ㅤ.}}$
+<a href="https://sauceboss.straw.page"> ﹒⌗﹒ѕтяαωραgє ⸝⸝</a> ${\textsf{\color{#8D7576} 𝄞݂۫ 𓈒}}$ <a href="https://saucebxss.atabook.org"> ﹒⌗﹒αтαвσσк ⸝⸝</a>
 </p>
 
 <p data-importer="text" align="center">
-${\textsf{\color{#A9675D} ⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆}}$
+${\textsf{\color{#573233} ꒰ ᩧ 𓈒𐓣𝗒𝗌 ♯1 𝖿α𐓣. ⁄⁄͈ . ᴗ͈)}}$
 </p>
 
 <p data-importer="text" align="center">
-${\textsf{\color{#C97888} 𐓣𝖾𝖾ᑯ𝗂𐓣𝗀 𝗒ⱺυ𝗋 𐓣α𝖼ɦⱺ 𝗌αυ𝖼𝖾 𝗌ⱺ ᑲαᑯ 𝗋𐓣}}$
+${\textsf{\color{#442021} ⋮ 𖦹 𝗄𝗍ᑲ ㅤ‧ ˚}}$
 </p>
 
-<p data-importer="text" align="center">
-${\textsf{\color{#D99A7E} ☐☐　　✙　﹐　υ𝗌υαᥣᥣ𝗒 ωα𝗍𝖼ɦ𝗂𐓣𝗀 / ρᥣα𝗒𝗂𐓣𝗀 𝗌ო}}$
-</p>
-
-<p data-importer="text" align="center">
-${\textsf{\color{#B8755F} ✦　　﹐　‹𝟹 𝗄α𝗍𝗂𝖾, α𝗌ɦ, 𝖿ⱺⱺᥣ𝗂𝗌ɦ, 𝗍𝗂𐓣α, ოυᥣ𝗍𝗂, 𝗊υα𝖼𝗄𝗂𝗍𝗒　　⌒⌒}}$
-</p>
-
-<p data-importer="text" align="center">
-${\textsf{\color{#E2B0A0} .                ꉂ　      𓈒　 𓈒}}$　<a href="https://saucebxss.atabook.org">﹒⌗﹒αтαвσσк ⸝⸝</a> ${\textsf{\color{#D98C9A} ⋌ ⠀   ◌⃘.}}$
-</p>
-
-###
+<br>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31inmpydgumsga6mxbbe6rvz7umq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=edccc7&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31inmpydgumsga6mxbbe6rvz7umq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=573233&bar_color_cover=false">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/dwrHLZCp/IMG-8198.png" alt="bottom lace" width="60%">
+  <img src="https://i.ibb.co/ZpG7whrn/IMG-8839.png" alt="divider 2" width="100%">
 </div>
+
+<br>
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=saucebxsss&color=c27e79&label=++𝐒𝐖𝐀𝐆!++&base=100)
+  ![](https://komarev.com/ghpvc/?username=saucebxsss&color=806565&label=++𝐒𝐖𝐀𝐆!++&base=100)
   
 </div>
 
-<p data-importer="text" align="center">
-${\textsf{\color{#B8755F} ⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌}}$
-</p>
-
-###
-
 <details>
 <summary>
-<p align="center">${\textsf{\color{#D98C9A} ৎ𝄢 υ𝗌𝖾𝗋ᑲⱺ𝗑𝖾𝗌}}$</p>
+<p align="center">${\textsf{\color{#442021} ৎ𝄢 υ𝗌𝖾𝗋ᑲⱺ𝗑𝖾𝗌}}$</p>
 </summary>
 
 <div align="center">
@@ -119,14 +103,10 @@ ${\textsf{\color{#B8755F} ⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌⛌
 
 </div>
 
-</p>
-
 </details>
 
-###
-
+<br>
 
 <div align="center">
-  <img src="https://i.ibb.co/xqVmTFDT/IMG-8191.png" alt="bottom lace" width="100%">
+  <img src="https://i.ibb.co/dsnCPSZs/IMG-8841.png" alt="bottom" width="100%">
 </div>
-
