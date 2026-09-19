@@ -9,10 +9,12 @@
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/dsFZGdqB/IMG-8838.png" alt="divider 1" width="80%">
+  <img src="https://i.ibb.co/dsFZGdqB/IMG-8838.png" alt="divider 1" width="100%">
 </div>
 
 <br>
+
+<img src="https://i.postimg.cc/1XpWbzNK/IMG-8856.png" alt="IMG-8856" width="260" align="left">
 
 <p data-importer="text" align="center">
 ${\textsf{\color{#C9BEBF} 𓂅 𝖾𐓣𝗀 ﹔ 09 . ⟢}}$
@@ -37,6 +39,8 @@ ${\textsf{\color{#442021} ⋮ 𖦹 𝗄𝗍ᑲ ㅤ‧ ˚}}$
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31inmpydgumsga6mxbbe6rvz7umq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=573233&bar_color_cover=false">
   </a>
 </p>
+
+<br clear="left">
 
 <div align="center">
   <img src="https://i.ibb.co/ZpG7whrn/IMG-8839.png" alt="divider 2" width="100%">
