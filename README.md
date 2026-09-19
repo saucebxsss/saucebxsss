@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/dsFZGdqB/IMG-8838.png" alt="divider 1" width="100%">
+  <img src="https://i.ibb.co/dsFZGdqB/IMG-8838.png" alt="divider 1" width="80%">
 </div>
 
 <br>
