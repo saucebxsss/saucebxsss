@@ -48,10 +48,6 @@ ${\textsf{\color{#442021} ⋮ 𖦹 𝗄𝗍ᑲ ㅤ‧ ˚}}$
 
 <br>
 
-<p data-importer="text" align="center">
-<a href="https://pronouns.cc/@dermalz"> ﹒⌗﹒υηяєα∂αвℓє αƒ ρяηѕ ⸝⸝</a> ${\textsf{\color{#8D7576} }}$</a>
-</p>
-
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=saucebxsss&color=806565&label=++𝐒𝐖𝐀𝐆!++&base=100)
@@ -112,6 +108,11 @@ ${\textsf{\color{#442021} ⋮ 𖦹 𝗄𝗍ᑲ ㅤ‧ ˚}}$
 </div>
 
 </details>
+
+<p data-importer="text" align="center">
+<a href="https://pronouns.cc/@dermalz"> ﹒⌗﹒υηяєα∂αвℓє αƒ ρяηѕ ⸝⸝</a> ${\textsf{\color{#8D7576} }}$</a>
+</p>
+
 
 <br>
 
