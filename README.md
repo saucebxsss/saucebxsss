@@ -109,11 +109,6 @@ ${\textsf{\color{#442021} ⋮ 𖦹 𝗄𝗍ᑲ ㅤ‧ ˚}}$
 
 </details>
 
-<p data-importer="text" align="center">
-<a href="https://pronouns.cc/@dermalz"> ﹒⌗﹒υηяєα∂αвℓє αƒ ρяηѕ ⸝⸝</a> ${\textsf{\color{#8D7576} }}$</a>
-</p>
-
-
 <br>
 
 <div align="center">
