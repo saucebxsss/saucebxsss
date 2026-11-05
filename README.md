@@ -16,19 +16,19 @@
 
 <img src="https://i.postimg.cc/1XpWbzNK/IMG-8856.png" alt="IMG-8856" width="260" align="left">
 
-<p data-importer="text" align="center">
+<p align="center">
 ${\textsf{\color{#C9BEBF} 𓂅 𝖾𐓣𝗀 ﹔ 09 . ⟢}}$
 </p>
 
-<p data-importer="text" align="center">
+<p align="center">
 <a href="https://sauceboss.straw.page"> ﹒⌗﹒ѕтяαωραgє ⸝⸝</a> ${\textsf{\color{#8D7576} 𝄞݂۫ 𓈒}}$ <a href="https://saucebxss.atabook.org"> ﹒⌗﹒αтαвσσк ⸝⸝</a>
 </p>
 
-<p data-importer="text" align="center">
+<p align="center">
 ${\textsf{\color{#573233} ꒰ ᩧ 𓈒𐓣𝗒𝗌 ♯1 𝖿α𐓣. ⁄⁄͈ . ᴗ͈)}}$
 </p>
 
-<p data-importer="text" align="center">
+<p align="center">
 ${\textsf{\color{#442021} ⋮ 𖦹 𝗄𝗍ᑲ ㅤ‧ ˚}}$
 </p>
 
