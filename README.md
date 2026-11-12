@@ -10,7 +10,7 @@
 <br><br><br><br><br><br><br><br>
 
 <p align="center">
-${\textsf{\color{#C8C6C6} ✙ 𝘦𝘯𝘨 : 09 ⌣}}$
+<big></big>${\textsf{\color{#C8C6C6} ✙ 𝘦𝘯𝘨 : 09 ⌣}}$</big>
 </p>
 
 <p align="center">
