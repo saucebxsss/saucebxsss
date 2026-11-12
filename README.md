@@ -7,7 +7,7 @@
 
 <img src="https://i.ibb.co/bgjRBvcf/IMG-0044.png" width="42%" align="left">
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <p align="center">
 ${\large\textsf{\color{#C8C6C6} ✙ 𝘦𝘯𝘨 : 09 ⌣}}$
