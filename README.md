@@ -10,7 +10,7 @@
 <br><br><br><br><br><br><br><br>
 
 <p align="center">
-<big>${\textsf{\color{#C8C6C6} ✙ 𝘦𝘯𝘨 : 09 ⌣}}$</big>
+${\large\textsf{\color{#C8C6C6} ✙ 𝘦𝘯𝘨 : 09 ⌣}}$
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-${\textsf{\color{#847F7F} 𓈒}}$
+${\large\textsf{\color{#847F7F} 𓈒}}$
 <a href="https://pronouns.cc/@sauceboss">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴</a>
-${\textsf{\color{#847F7F} ׄ}}$
+${\large\textsf{\color{#847F7F} ׄ}}$
 </p>
 
 <br>
