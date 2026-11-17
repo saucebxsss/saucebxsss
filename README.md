@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://i.ibb.co/7JdxFXR9/IMG-0323.png" width="42%" align="left">
+<img src="https://i.ibb.co/7JdxFXR9/IMG-0323.png" width="35%" align="left">
 
 <br><br><br><br><br><br><br><br>
 
